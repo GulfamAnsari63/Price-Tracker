@@ -1,1 +1,1 @@
-# Projects
+Python project designed to monitor the price of a specific product listed on E-commerce webpage . It utilizes web scraping techniques to extract the product's title and price from the ecommerce webpage.The project provides a simple yet effective solution for tracking price changes and receiving timely notifications for potential purchase opportunities.
